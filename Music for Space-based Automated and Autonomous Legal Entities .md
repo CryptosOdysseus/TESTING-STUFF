@@ -1,49 +1,49 @@
-#**Music for Space-based Automated and Autonomous Legal Entities**
+# **Music for Space-based Automated and Autonomous Legal Entities**
 
 
-##**VANGELIS**
+## **VANGELIS**
 
-###**1976 - VANGELIS – ALBEDO 0.39 Full Album
+### **1976 - VANGELIS – ALBEDO 0.39 Full Album
 https://www.youtube.com/playlist?list=PL94gOvpr5yt3vwBE230Pt7FhEZRkptlA8
 
 
 
-##**JEAN-MICHEL JARRE**
+## **JEAN-MICHEL JARRE**
 
 
 
-##**ARMIN VAN BUREN**
+## **ARMIN VAN BUREN**
 
 
 
-##**KRAFTWERK**
+## **KRAFTWERK**
 
 
 
-##**TANGERINE DREAM**
+## **TANGERINE DREAM**
 
 
 
-##**PINK FLOYD**
+## **PINK FLOYD**
 
 
 
-##**LED ZEPPELIN**
+## **LED ZEPPELIN**
 
 
 
-##**GRACE SLICK – JEFFERSON AIRPLANE / STARTSHIP**
+## **GRACE SLICK – JEFFERSON AIRPLANE / STARTSHIP**
 
 
 
-##**THE WHO**
+## **THE WHO**
 
 
-##**ORCHESTRAL MANOEUVRES IN THE DARK**
+## **ORCHESTRAL MANOEUVRES IN THE DARK**
 
 
-##**BAUHAUS**
+## **BAUHAUS**
 
 
-##**THE CURE**
+## **THE CURE**
 
