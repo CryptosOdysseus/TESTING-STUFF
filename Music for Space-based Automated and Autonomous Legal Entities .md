@@ -24,16 +24,28 @@ https://www.youtube.com/watch?v=64MKHybT1_A
 
 ## **JEAN-MICHEL JARRE**
 
-### **JEAN MICHEL JARRE EQUINOXE 1978 FULL REMASTER**
+### **1978 JEAN MICHEL JARRE EQUINOXE FULL REMASTER**
 https://www.youtube.com/watch?v=k6B-YGQOLjs&pbjreload=10
 
 #
 
 ## **ARMIN VAN BUREN**
 
-### **Armin van Buuren vs Shapov - Our Origin (Extended Mix)**
+### **2018 Armin van Buuren vs Shapov - Our Origin (Extended Mix)**
 https://www.youtube.com/watch?v=iaMkI1z3q4Y
 
+### **2019 Best of #ASOT909 | Armin van Buuren vs. Shapov – La Resistance De L’Amour AND MORE**
+https://www.youtube.com/watch?v=jhfO2SwvhF4
+
+#
+
+## **SHAPOV**
+
+### **2019 Shapov | Tomorrowland Belgium 2019 - W2**
+https://www.youtube.com/watch?v=2qKVmPAEVcU
+
+### **Where Our Origin Going Hopazz Interstellar Cinematic Mashup by Armin, Shapov, Hans Zimmer**
+https://www.youtube.com/watch?v=rqGUy1_be80
 
 #
 
