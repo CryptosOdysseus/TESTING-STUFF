@@ -1,6 +1,7 @@
 # **Music for** 
-# **Space-based Automated and Autonomous Legal Entities**
+# **Space-Based Automated and Autonomous Legal Entities**
 
+#
 
 ## **VANGELIS**
 
@@ -60,22 +61,38 @@ https://www.youtube.com/watch?v=rqGUy1_be80
 #
 
 ## **KRAFTWERK**
-
+### **2019 Kraftwerk - Festival Jardins Pedralbes, Barcelona, 2019-07-06**
+https://www.youtube.com/watch?v=Hkr2WffiX1A&feature=youtu.be
 
 #
 
 ## **TANGERINE DREAM**
 
+### **2013 Tangerine Dream - Best of**
+https://www.youtube.com/watch?v=oxYjMVLrHRM&t=324s
+
+### **1976 Tangerine Dream - Stratosfear**
+https://www.youtube.com/watch?v=Dpp9ulYMBcc&t=1597s
 
 #
 
 ## **PINK FLOYD**
 
+### **1973 Pink Floyd - The Dark Side Of The Moon (Full Album HQ)**
+https://www.youtube.com/playlist?list=PL3PhWT10BW3Urh8ZXXpuU9h526ChwgWKy
+
+### **1974 Pink Floyd - The Dark Side of The Moon Live at Wembley**
+https://www.youtube.com/watch?v=5d96q45yt48&t=316s
 
 #
 
 ## **LED ZEPPELIN**
 
+### **1975 led Zeppelin - Kashmir**
+https://www.youtube.com/watch?v=sfR_HWMzgyc
+
+### **1979 Led Zeppelin - Kashmir (Live at Knebworth) (Official Video)**
+https://www.youtube.com/watch?v=hW_WLxseq0o
 
 #
 
