@@ -96,7 +96,44 @@ https://www.youtube.com/watch?v=hW_WLxseq0o
 
 #
 
-## **GRACE SLICK – JEFFERSON AIRPLANE / STARTSHIP**
+## **GRACE SLICK – JEFFERSON AIRPLANE / STARSHIP**
+
+### **1967 Jefferson Airplane Grace Slick - White Rabbit**
+https://www.youtube.com/watch?v=bXZtnqT4uxM
+
+### **1969 Jefferson Airplane Grace Slick - White Rabbit - Live at Woodstock**
+https://www.youtube.com/watch?v=R_raXzIRgsA
+
+#
+
+## **CANNED HEAT**
+
+### **1968 Canned Heat - On The Road Again [HQ]**
+https://www.youtube.com/watch?v=qRKNw477onU
+
+### **1969 Canned Heat - Complete audio Live recordings from Woodstock**
+https://www.youtube.com/watch?v=RKsgXHuZaaY
+
+#
+
+## **MIKE OLDFIELD**
+
+### ** 1973 Mike Oldfield - Tubular Bells (The Original Remastered)**
+https://www.youtube.com/watch?v=TXvtDm820zI&t=703s
+
+### ** 1973 Mike Oldfield 'Tubular Bells' Live at the BBC (high quality / remastered)**
+https://www.youtube.com/watch?v=UbreYtwMc_0
+
+#
+
+## **PROCOL HARUM**
+
+### **1967 Procol Harum - A Whiter Shade Of Pale**
+https://www.youtube.com/watch?v=Mb3iPP-tHdA
+
+#
+
+## **THE DOORS**
 
 
 #
