@@ -31,6 +31,16 @@ https://www.youtube.com/watch?v=k6B-YGQOLjs&pbjreload=10
 
 ## **ARMIN VAN BUREN**
 
+### **2019 Gaia - Moons of Jupiter**
+https://www.youtube.com/watch?v=hCuRnp-n-tA
+(https://moonsofjupiter.lnk.to/GAIAYA)
+
+#### **2019 Euporie**
+https://www.youtube.com/watch?v=XTinut1aZIE&list=RDXTinut1aZIE&start_radio=1
+
+### **Gaia - Tuvan Extended**
+https://www.youtube.com/watch?v=5NvXyJRgxdU
+
 ### **2018 Armin van Buuren vs Shapov - Our Origin (Extended Mix)**
 https://www.youtube.com/watch?v=iaMkI1z3q4Y
 
@@ -90,4 +100,15 @@ https://www.youtube.com/watch?v=rqGUy1_be80
 #
 
 ## **THE CURE**
+
+#
+
+## **TRANCE**
+
+### **2017 Uplifting Dream Trance 33 Mix 7**
+https://www.youtube.com/watch?v=s-zUAbh0Gt8
+
+### **Uplifting Dream Trance 37 Mix 11**
+https://www.youtube.com/watch?v=eDKmrGZPUiA
+
 
