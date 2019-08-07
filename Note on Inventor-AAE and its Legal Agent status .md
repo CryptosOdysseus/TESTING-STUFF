@@ -4,6 +4,12 @@ Test-run exercise for editing .md files in markdown text with slightly longish t
 
 _Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, be replaced by *D & B’s respective GitHub links*_
 
+#
+
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ --- Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+
+#
+
 # Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 ## AAE capacity as possible “Legal Agent”, including an “A.I.”
 ## Issue of control of AAE by NPI & transfer of control of AAE to NPI
