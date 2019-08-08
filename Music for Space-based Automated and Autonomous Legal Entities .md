@@ -174,9 +174,22 @@ https://www.youtube.com/watch?v=Mb3iPP-tHdA
 ## **THE CURE**
 
 #
+
+## Rock & Pop compilations
+
+### **2018 Pink Floyd, Dire Straits, Led Zeppelin, Fleetwood Mac, The Police, Scorpions, CCR Greatest Hits cover**
+https://www.youtube.com/watch?v=_tQerMEpbn4
+
 #
 
 # **Dance & Trance**
+
+#
+
+## **CHRIS ISAAC**
+
+### 2019 Chris Isaac Wicked Game Chillion Remix (1hour)
+https://www.youtube.com/watch?v=Ka_uOIf_v5g
 
 #
 
@@ -184,6 +197,14 @@ https://www.youtube.com/watch?v=Mb3iPP-tHdA
 
 ### 2009 Rihanna - Umbrella (Orange Version) ft. JAY-Z - Good Girl Gone Bad
 https://www.youtube.com/watch?v=CvBfHwUxHIk
+
+### 2010 Rihanna - Only Girl (In The World)
+https://www.youtube.com/watch?v=pa14VNsdSYM
+
+### 2012 Rihanna - Diamonds
+https://www.youtube.com/watch?v=lWA2pjMjpBs
+
+#
 
 ## **DEPECHE MODE**
 
