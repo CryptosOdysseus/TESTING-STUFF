@@ -180,12 +180,17 @@ https://www.youtube.com/watch?v=Mb3iPP-tHdA
 
 #
 
+## **RIHANNA**
+
+### 2009 Rihanna - Umbrella (Orange Version) ft. JAY-Z - Good Girl Gone Bad
+https://www.youtube.com/watch?v=CvBfHwUxHIk
+
 ## **DEPECHE MODE**
 
 ### 2014 Depeche Mode - Enjoy The Silence (Live in Berlin)
 https://www.youtube.com/watch?v=-_3dc6X-Iwo
 
-## **Trance compilations**
+## **TRANCE COMPILATIONS**
 
 ### **2017 Uplifting Dream Trance 33 Mix 7**
 https://www.youtube.com/watch?v=s-zUAbh0Gt8
