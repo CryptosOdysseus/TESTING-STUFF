@@ -1,5 +1,8 @@
-# Law ReImagined – Inventing Automated and Autonomous Legal Entities
+# Law ReImagined – 
+# Inventing Automated and Autonomous Legal Entities
+
 # Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+
 ## AAE capacity as possible “Legal Agent”, including an “A.I.”
 ## Issue of control of AAE by NPI & transfer of control of AAE to NPI
 
@@ -7,15 +10,17 @@ DRAFT 20190806-0808 ChrisB unverified.
 
 Data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions.
 
-Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (Chris) only.
+Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (non-lawyer Chris) only.
 
 This doc is equally for the purpose of a test-run exercise for us, in order to edit .md files in markdown format with slightly longish text content, and also test various Pull Requests methods to AALE GitHub repository.
 
 _Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, and in due time, be replaced by *D & B’s respective GitHub links*_
 
 AAE: Automated and Autonomous Entity (including what is called as A.I. in various degrees of automation & autonomy).
+
 AALE: Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational AALE Law Challenge).
-NPI: Natural Person (as quoted in UK Patent Law) + Individual (as quoted in US Patent Law).
+
+NPI: Natural Person (as referred to in UK Patent Law) and/or Individual (as referred to in US Patent Law).
 
 #
 
@@ -110,13 +115,23 @@ Our (Chris) comment:
 
 >“... it operates in some way like a legal agent” then next thing to come to mind could be, if we apply that Agency framework, how to we define the Scope of Authority of said legal agent- in the context of its autonomous behavior as a “phenomenon set in motion” indeed much more than a tool fully “controlled” by the hand of its user/master. That gives us pause but at the same time it sounds like a valid & legitimate working topic: not just another out-on-a-limb AI speculation, since it has, after all, just now really happened. It’s real folks.
 
-One Computational Law chat colleague had a rather valid counterpoint (EPO), she said:
+One Computational Law chat colleague Diana had a rather valid legal counterpoint (EPO), she said:
+
 >Going back to the concept of patents, as a right to exploit a given invention, it would be a problem to define “to whom” (legal person). This goes to _**legal personality**_ (even if companies are an abstract construction, in very narrow terms they’re also considered with personality rights (as _“name and credit”_). I am not so familiar with US patent law but in the case of trademarks (my experience) _**there is the need to assert the intent to use**_ (this would link to the core, genesis of the patent, a monopoly right granted by the State.. ). We also always need to consider the morals rights (ethical questions). I would go with EPO argument, _since a machine has no legal personality,_ so that would be a right attributed to no one... The case for companies or partnerships would be easier to get over with the “natural persons” approach.
 
-Our colleague had more considerations on agency & legal personality, to integrate into later editions.
+More original legal considerations by Diana, that we need to address and reflect on (language only slightly edited):
 
-We venture below some non-Lawyer thoughts, _having not yet read the full 3 EPO reports (soon...)._
+>There are several issues. One is related to a domain, as words like "agents", "policies" have a context and we can´t remove them from all context (the way I refer to a policy in a given algorithm is different from law, or agent). 
 
+>On the other extreme: animals, for the law (civil), are treated as "property", as a "thing", but we introduced the notion that we can´t do harm or cruelty to animals- but under the chapter of "things" (Germany also has it under the Civil Code). But because we can´t say an animal is a "legal person".
+
+>Otherwise, setting as a person, brings all the rest (rights, duties...) (Chris comment: the R4 of legal analysis- Roles & Relationships, Rights & Responsibilities). If it's a free wild, animal, I am not responsible, but if the animal is mine ("property"), I am responsible for all that it does. 
+
+>In automation, we may have objective responsibility (like when we drive a car...), considering "who is control" (then we can argue the level of direct control or not...). Also, we have these dual sides: personal vs overall interest, private versus common, rights versus duties, etc. The question is where we set the boundaries, but a right (as a patent) cannot exist without a subjective imputation (as we can´t have a right empty of content).  
+
+Diana's thoughts are also put in perspective by Brenden, _and this bit appears below toward the end of the second part of this note: "Issue of control of AAE by NPI & transfer of control of AAE to NPI"_, as it looks like that "control" axis is pivotal.
+
+_We (non-lawyer Chris) venture below some Vulcan thoughts, having not yet read the full 3 EPO reports (soon...):_
 
 So what do we have- an automated & autonomous entity (an AAE): indeed as a matter of fact rather than a legal opinion from a human standpoint, it is not sentient nor self-aware, it is not a natural person nor and individual (not an NPI)- therefore _**it can’t function within the paradigm of “intent” that first requires to be dealing with an NPI**_, to be then deployed in relevant bodies of Law (Criminal, Contract, Tort, Trademark as also mentioned, etc.). 
 
@@ -192,3 +207,26 @@ In Brenden’s words, that we (Chris) totally second:
 >Transfer of control decisions can only be made by those who designed such systems- as these decisions are system dependent.
 
 Further debunking that nonsense with a metaphor used earlier, this would be equivalent to peering through the glass window at the door of a medical operation block, constantly telling the surgeon how (s)he should operate, at intervals of infinitesimal fractions of a second.
+
+More thoughts by Brenden in reply to Diana on the pivotal axis of "control" of AAEs by NPIs or other AAEs:
+
+>The challenge will be- that in the system as we are ever increasingly building Are complex systems that will at times be under human control and at times be under control of an AI.
+
+>But this is the simplified version- the reality of what is going to happen is that these systems will be indistinguishable. And at times only parts of certain systems will change control. It is going to become very difficult to separate out what we are currently calling AI from what is human.
+
+>Much of this has to do with the bandwidth of the interfaces we use for computational entities- And more specifically the computational modalities we used to interface with these systems.
+
+>If in one moment I am under control and then the next moment I gesture and the system is under control things become gray very quickly.....
+
+>And this is nothing of the computational intelligence which will be enbedded into all of these systems. I could go on but I should probably stop while I’m ahead. (Or not).
+
+So it looks like we indeed have identified another pivotal axis, the notion, degree, & modalities of control of an AAE by an NPI and/or another AAE, and/or an NPI extended (enhanced, augmented) by an AAE. More on this in later editions.
+
+We yet have to see whether and how we integrate it & utilize it in our overall AALE methodology & construct. More later.
+
+
+
+
+
+
+
