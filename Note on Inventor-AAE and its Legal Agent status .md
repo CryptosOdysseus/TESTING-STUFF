@@ -1,8 +1,21 @@
-DRAFT 201908008 ChrisB unverified – data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions - mostly built on previous and current input from Team AALE, misatkes, confusions and omissions are ours (Chris) only.
+# Law ReImagined – Inventing Automated and Autonomous Legal Entities
+# Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+## AAE capacity as possible “Legal Agent”, including an “A.I.”
+## Issue of control of AAE by NPI & transfer of control of AAE to NPI
+
+DRAFT 20190806-0808 ChrisB unverified.
+
+Data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions.
+
+Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (Chris) only.
 
 This doc is equally for the purpose of a test-run exercise for us, in order to edit .md files in markdown format with slightly longish text content, and also test various Pull Requests methods to AALE GitHub repository.
 
 _Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, and in due time, be replaced by *D & B’s respective GitHub links*_
+
+AAE: Automated and Autonomous Entity (including what is called as A.I. in various degrees of automation & autonomy).
+AALE: Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational AALE Law Challenge).
+NPI: Natural Person (as quoted in UK Patent Law) + Individual (as quoted in US Patent Law).
 
 #
 
@@ -12,6 +25,7 @@ _Remark: referring a number of times to Dazza & Brenden, these referenced names 
 
 #
 
+# Law ReImagined – Inventing Automated and Autonomous Legal Entities
 # Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 ## AAE capacity as possible “Legal Agent”, including an “A.I.”
 ## Issue of control of AAE by NPI & transfer of control of AAE to NPI
