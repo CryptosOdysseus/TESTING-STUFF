@@ -1,7 +1,11 @@
 # **Music for** 
 # **Space-Based Automated and Autonomous Legal Entities**
 
-# **Electronic, Pop, & Rock**
+#
+
+# **Ancient Electronic & Modern Trance**
+
+#
 
 ## **VANGELIS**
 
@@ -73,6 +77,10 @@ https://www.youtube.com/watch?v=oxYjMVLrHRM&t=324s
 
 ### **1976 Tangerine Dream - Stratosfear**
 https://www.youtube.com/watch?v=Dpp9ulYMBcc&t=1597s
+
+#
+
+# **Pop & Rock**
 
 #
 
@@ -164,6 +172,8 @@ https://www.youtube.com/watch?v=Mb3iPP-tHdA
 #
 
 # **Dance & Trance**
+
+#
 
 ## **DEPECHE MODE**
 
