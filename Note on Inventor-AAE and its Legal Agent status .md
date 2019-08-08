@@ -1,10 +1,10 @@
 # Law ReImagined – 
 # Inventing Automated and Autonomous Legal Entities
 
-# Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+## Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 
-## AAE capacity as possible “Legal Agent”, including an “A.I.”
-## Issue of control of AAE by NPI & transfer of control of AAE to NPI
+### AAE capacity as possible “Legal Agent”, including an “A.I.”
+### Issue of control of AAE by NPI & transfer of control of AAE to NPI
 
 DRAFT 20190806-0808 ChrisB unverified.
 
@@ -30,19 +30,22 @@ NPI: Natural Person (as referred to in UK Patent Law) and/or Individual (as refe
 
 #
 
-# Law ReImagined – Inventing Automated and Autonomous Legal Entities
-# Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
-## AAE capacity as possible “Legal Agent”, including an “A.I.”
-## Issue of control of AAE by NPI & transfer of control of AAE to NPI
+# Law ReImagined – 
+# Inventing Automated and Autonomous Legal Entities
+
+## Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+
+### AAE capacity as possible “Legal Agent”, including an “A.I.”
+### Issue of control of AAE by NPI & transfer of control of AAE to NPI
 
 #
 #
 #
 
-## AAE capacity as possible “Legal Agent”, including an “A.I.”
+### AAE capacity as possible “Legal Agent”, including an “A.I.”
 
 
-### Financial Times piece [Patent Agencies Challenged to Accept AI inventor] (https://www.ft.com/content/9c114014-b373-11e9-bec9-fdcab53d6959)
+#### Financial Times piece [Patent Agencies Challenged to Accept AI inventor] (https://www.ft.com/content/9c114014-b373-11e9-bec9-fdcab53d6959)
 
 
 #### **Fact 1:** Patent applications have been made by a team of legal experts for two designs (a plastic food container and a flashing light) **_made by a machine called Dabus._** 
@@ -102,7 +105,7 @@ Prof Abbott envisioned that these suggested legal regime changes would be likely
 
 As pointed out by Dazza, if you put Fact 3 and Fact 5 in perspective …
 
-**Fact 3:** as emphasized by Prof. Abbott and Dr. Thaler,   “What’s striking is that the machine invented in two very different areas, **_neither of which its programmer had any background in.”_**
+#### **Fact 3:** as emphasized by Prof. Abbott and Dr. Thaler,   “What’s striking is that the machine invented in two very different areas, **_neither of which its programmer had any background in.”_**
 
 #### **Fact 5:** In the words of European Patent Office position on AI as "inventors":
 >The current European legal framework is **_“suitable for addressing the inventorship . . . of inventions involving AI activity”_**, and machines, regardless of their intelligence, should be considered **_“tools”._** The EPO is _“aware of discussions” about AI and inventorship_, **_but reaffirmed its position that an inventor “can only be a person”._**
@@ -184,9 +187,8 @@ In Brenden’s words:
 
 #
 #
-#
 
-## Issue of control of AAE by NPI & transfer of control of AAE to NPI
+### Issue of control of AAE by NPI & transfer of control of AAE to NPI
 
 We have had these discussions with Brenden a number of times, about the notions of _“controlling”_ or even _“intervening in the execution process”_ of AAEs for example for legal and/or ethical purposes. This latest exchange was referring to this particular recent piece from a certain well-known MSM outlet [Tech Tent: Robot rules for any Tom, Dick or Harry] (https://www.bbc.co.uk/news/technology-49204682) but remarks apply to a larger context.
 
@@ -206,7 +208,7 @@ In Brenden’s words, that we (Chris) totally second:
 
 >Transfer of control decisions can only be made by those who designed such systems- as these decisions are system dependent.
 
-Further debunking that nonsense with a metaphor used earlier, this would be equivalent to peering through the glass window at the door of a medical operation block, constantly telling the surgeon how (s)he should operate, at intervals of infinitesimal fractions of a second.
+Further debunking that MSM piece mis-characterization with a metaphor used earlier, this would be equivalent to peering through the glass window at the door of a medical operation block, constantly telling the surgeon how (s)he should operate, at intervals of infinitesimal fractions of a second.
 
 More thoughts by Brenden in reply to Diana on the pivotal axis of "control" of AAEs by NPIs or other AAEs:
 
@@ -220,13 +222,6 @@ More thoughts by Brenden in reply to Diana on the pivotal axis of "control" of A
 
 >And this is nothing of the computational intelligence which will be enbedded into all of these systems. I could go on but I should probably stop while I’m ahead. (Or not).
 
-So it looks like we indeed have identified another pivotal axis, the notion, degree, & modalities of control of an AAE by an NPI and/or another AAE, and/or an NPI extended (enhanced, augmented) by an AAE. More on this in later editions.
+_So it looks like our team indeed has identified here another pivotal axis, the notion, degree, & modalities of control of an AAE by an NPI and/or another AAE, and/or an NPI extended (enhanced, augmented) by an AAE. More on this in later editions._
 
 We yet have to see whether and how we integrate it & utilize it in our overall AALE methodology & construct. More later.
-
-
-
-
-
-
-
