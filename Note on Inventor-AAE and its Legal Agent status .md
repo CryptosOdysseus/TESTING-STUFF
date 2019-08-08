@@ -33,7 +33,7 @@ NPI: Natural Person (as referred to in UK Patent Law) and/or Individual (as refe
 # Law ReImagined – 
 # Inventing Automated and Autonomous Legal Entities
 
-## Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+## Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 
 ### AAE capacity as possible “Legal Agent”, including an “A.I.”
 ### Issue of control of AAE by NPI & transfer of control of AAE to NPI
