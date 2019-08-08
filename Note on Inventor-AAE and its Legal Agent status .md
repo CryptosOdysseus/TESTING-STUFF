@@ -1,12 +1,14 @@
-Test-run exercise for editing .md files in markdown text with slightly longish text content, and also test Pull Requests to AALE GitHub.
+DRAFT 201908008 ChrisB unverified – data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions - mostly built on previous and current input from Team AALE, misatkes, confusions and omissions are ours (Chris) only.
 
-(DRAFT 20190806 ChrisB unverified – data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions).
+This doc is equally for the purpose of a test-run exercise for us, in order to edit .md files in markdown format with slightly longish text content, and also test various Pull Requests methods to AALE GitHub repository.
 
-_Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, be replaced by *D & B’s respective GitHub links*_
+_Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, and in due time, be replaced by *D & B’s respective GitHub links*_
 
 #
 
-**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ --- Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
+
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
 
 #
 
