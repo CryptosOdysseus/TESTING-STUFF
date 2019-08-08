@@ -1,7 +1,7 @@
 # Law ReImagined – 
 # Inventing Automated and Autonomous Legal Entities
 
-## Automated and Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+## Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 
 ### AAE capacity as possible “Legal Agent”, including an “A.I.”
 ### Issue of control of AAE by NPI & transfer of control of AAE to NPI
@@ -16,9 +16,9 @@ This doc is equally for the purpose of a test-run exercise for us, in order to e
 
 _Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, and in due time, be replaced by *D & B’s respective GitHub links*_
 
-AAE: Automated and Autonomous Entity (including what is called as A.I. in various degrees of automation & autonomy).
+AAE: Automated and Autonomous Entity (including what is called an A.I. in various degrees of automation & autonomy).
 
-AALE: Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational AALE Law Challenge).
+AALE: Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational Law "AALE Challenge").
 
 NPI: Natural Person (as referred to in UK Patent Law) and/or Individual (as referred to in US Patent Law).
 
