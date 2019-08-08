@@ -1,5 +1,5 @@
-# **Music for** 
-# **Space-Based Automated and Autonomous Legal Entities**
+# **Music for Space-Based CLEADA ** 
+## **Computational Law, Ethically Aligned Designed, Digital Assets, Automated and Autonomous Legal Entities, and more**
 
 #
 
