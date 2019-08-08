@@ -1,7 +1,7 @@
 # **Music for** 
 # **Space-Based Automated and Autonomous Legal Entities**
 
-#
+# **Electronic, Pop, & Rock**
 
 ## **VANGELIS**
 
@@ -163,7 +163,14 @@ https://www.youtube.com/watch?v=Mb3iPP-tHdA
 
 #
 
-## **TRANCE**
+# **Dance & Trance**
+
+## **DEPECHE MODE**
+
+### 2014 Depeche Mode - Enjoy The Silence (Live in Berlin)
+https://www.youtube.com/watch?v=-_3dc6X-Iwo
+
+## **Trance compilations**
 
 ### **2017 Uplifting Dream Trance 33 Mix 7**
 https://www.youtube.com/watch?v=s-zUAbh0Gt8
