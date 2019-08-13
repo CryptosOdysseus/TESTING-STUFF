@@ -2,10 +2,10 @@
 
  
 DAZZA:  
->1) UCITA was widely disfavored while UETA and ESIGN have been warmly adopted as the law of the land 
-at state and federal levels on the US and 
->2) here is a post that identifies especially relevant aspects of both those laws 
->(ESIGN and UETA) with respect to the scope of work of this group: 
+>1) UCITA was widely disfavored while UETA and ESIGN have been warmly adopted as the law of the land at state and federal levels on the US and 
+
+>2) here is a post that identifies especially relevant aspects of both those laws(ESIGN and UETA) with respect to the scope of work of this group: 
+
 >https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/ 
 
 BRYAN:
