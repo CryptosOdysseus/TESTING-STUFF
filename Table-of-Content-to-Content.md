@@ -10,13 +10,13 @@
 
 ### [§ 12. Capacity to Contract](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-12-capacity-to-contract-1)
 
-### [§ 13. Persons Affected by Guardianship](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-13-persons-affected-by-guardianship)
+### [§ 13. Persons Affected by Guardianship](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-13-persons-affected-by-guardianship-1)
 
-### [§ 14. Infants](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-14-infants)
+### [§ 14. Infants](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-14-infants-1)
 
-### [§ 15. Mental Illness or Defect](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-15-mental-illness-or-defect)
+### [§ 15. Mental Illness or Defect](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-15-mental-illness-or-defect-1)
 
-### [§ 16. Intoxicated Persons](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-16-intoxicated-persons)
+### [§ 16. Intoxicated Persons](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-16-intoxicated-persons-1)
 
 #
 
