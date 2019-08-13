@@ -46,11 +46,11 @@ According to the federal ESIGN Act:
 
 >A contract or other record relating to a transaction in or affecting interstate or foreign commerce may not be denied legal >effect, validity, or enforceability solely because its formation, creation, or delivery involved the action of one or more >electronic agents so long as the action of any such electronic agent is legally attributable to the person to be bound.
 
-…and…
+>…and…
 
 >The term “electronic agent” means a computer program or an electronic or other automated means used independently to initiate >an action or respond to electronic records or performances in whole or in part without review or action by an individual at >the time of the action or response.
 
-https://www.govinfo.gov/content/pkg/PLAW-106publ229/html/PLAW-106publ229.htm
+>https://www.govinfo.gov/content/pkg/PLAW-106publ229/html/PLAW-106publ229.htm
 
 Similarly, according to the state Uniform Electronic Transactions Act:
 
@@ -62,13 +62,13 @@ Similarly, according to the state Uniform Electronic Transactions Act:
 
 >(3) The terms of the contract are determined by the substantive law applicable to it.
 
-…and…
+>…and…
 
 >“Automated transaction” means a transaction conducted or performed, in whole or in part, by electronic means or electronic >records, in which the acts or records of one or both parties are not reviewed by an individual in the ordinary course in >forming a contract, performing under an existing contract, or fulfilling an obligation required by the transaction.
 
 >“Electronic agent” means a computer program or an electronic or other automated means used independently to initiate an >action or respond to electronic records or performances in whole or in part, without review or action by an individual.
 
-https://www.uniformlaws.org/viewdocument/final-act-no-comments-27?CommunityKey=2c04b76c-2b7d-4399-977e-d5876ba7e034&tab=librarydocuments
+>https://www.uniformlaws.org/viewdocument/final-act-no-comments-27?CommunityKey=2c04b76c-2b7d-4399-977e->d5876ba7e034&tab=librarydocuments
 
 The most important concept to take away from these legal frameworks in the context of automated and autonomous systems is the need for attribution to a legal person. 
 
