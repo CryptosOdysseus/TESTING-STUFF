@@ -4,11 +4,11 @@
 
 #
 
-## [CHAPTER 2](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#chapter-2)
+## [CHAPTER 2](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#chapter-2-1)
 
-## [FORMATION OF CONTRACTS–PARTIES AND CAPACITY](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#formation-of-contractsparties-and-capacity)
+## [FORMATION OF CONTRACTS–PARTIES AND CAPACITY](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#formation-of-contractsparties-and-capacity-1)
 
-### [§ 12. Capacity to Contract](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-12-capacity-to-contract)
+### [§ 12. Capacity to Contract](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-12-capacity-to-contract-1)
 
 ### [§ 13. Persons Affected by Guardianship](https://github.com/CryptosOdysseus/TESTING-STUFF/blob/master/Table-of-Content-to-Content.md#-13-persons-affected-by-guardianship)
 
