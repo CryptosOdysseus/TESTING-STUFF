@@ -81,15 +81,16 @@ Key references this time include:
 >Both (ESIGN/UETA), even just as possible models, have some language that is helpful to understanding Contract Law for automated entities, specifically with regards to _**intent to form a contract, acceptance, and purported alteration of a contract with an automated entity.**_
 
 
--	a mus-read GiHub post by Brenden dated May 2019- "AALE Frameworks - Industry Classifications on Autonomous Systems": https://github.com/mitmedialab/AutomatedLegalEntityChallenge/pull/1/commits/fc6863e0690ea2e0a03adcc2dd000451bbdd9105 
+-	a mus-read GiHub post by Brenden dated May 2019:
+>"AALE Frameworks - Industry Classifications on Autonomous Systems": (https://github.com/mitmedialab/AutomatedLegalEntityChallenge/pull/1/commits/fc6863e0690ea2e0a03adcc2dd000451bbdd9105)
 
-That post starts to cover the issue of discerning various stages of A/A & D/D for AALEs. 
+That GitHub post by Brenden starts to cover the issue of discerning various stages of A/A & D/D for AALEs. 
 
-It also includes a pretty foundational Joi Ito video on Autonomous Systems, worth watching to get a grasp of how to possibly tackle various stages of A/A & D/D for AAS (implicitly AALE): https://m.youtube.com/watch?v=yWdKySVcqVo  
+It also includes a pretty foundational Joi Ito video on Autonomous (autonomish...) Systems, worth watching to get a grasp of how to possibly tackle various stages of A/A & D/D for AAS (implicitly AALE): https://m.youtube.com/watch?v=yWdKySVcqVo  
 
-#### Dusting off above Brenden GitHub post is worth it imho, in a way that is relevant to our specific angle here: 
+#### Re-visiting above Brenden GitHub post is worth it imho, in a way that is relevant to our specific angle here: 
 
-o	to surface a few more **design requirements and legal engineering success metrics for AALE**
+o	to surface a few more **design requirements and legal engineering success metrics for AALE.**
 
 o	focusing at this particular moment in time on the mutual relevance with **Restatement (2nd) of Contract Law**
 https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md 
@@ -100,7 +101,7 @@ The thing is not to establish a taxonomy of various A/A & D/D stages per se (alt
 
 -	And then other chunks where such assumptions are less straightforward. 
 
-In which case we might opt for a brief characterization, and perhaps live them out, at least temporarily, as “capped guaranteed rabbit holes”. About which we reserve the right to re-engage these at a later date, should they remain linked to many really current and pressing practical & legal questions, if such is really the case, this is to be ascertained.
+In which case, for these less straightforward other chunks, we might opt for a brief characterization, and perhaps live them out, at least temporarily, as “capped guaranteed rabbit holes”. About which we reserve the right to re-engage these at a later date, should they "capped guaranteed rabbit holes" remain linked to many really current and pressing practical & legal questions. And if such is really the case, then it is to be ascertained first how current and pressing.
 
 -	For the **core chunk** we may focus on how acts and/or consequences of acts of AAS, pan out for **AALE functions & legal objects**, by **linking ownership, control & accountability back to responsible parties that are legal persons and/or NPI.** 
 
@@ -108,38 +109,47 @@ In which case we might opt for a brief characterization, and perhaps live them o
 
 -	... unless we would need to map out scenarios to e.g. **emphasize relevance of clearly visible license plates required for vehicles, to suggest AALE engineering pathways that are articulated with AAS solutions pathways analogous to license plates.**
 
--	for example we could introduce a transacting-drone (fetch-pay-deliver) or introduce a new AAS in the scenario, that does problematic things- either deliberately programmed to steal by its owner, or it gets hacked, and book and/or money are gone, then who is responsible and liable for what: remember the book scenarios matrix hypothesis **“AALE/DAO gone rogue”**, but then the right question becomes **how does a “clean” AALE deals with an ecosystem internal AAS gone rogue?**
-
--	It might also be useful to consider an AAS that does problematic things, like a transacting-drone (fetch-pay-deliver) gone rogue, in order to kind of **clarify three questions:**
-
-o	On a very simple and concrete example, what should **AALE engineering pathways** be (roughly), for AALE to operate _mano a mano_ with these AAS but also deal with them when they go wrong- for whatever reason.
-
-o	What are (roughly) for AAS the **various stages of A/A and D/D that would _impact attribution_**, and how should AALE be engineered to deal with that.
-
-o	Where are (roughly) the legal domain borderlines, within which we may **safely assume that we can execute legal analysis of scenarios for Autonomous Agents and Automated Transactions, under the model of AAS being mere electronic agents as being dealt with by the ESIGN/UETA frameworks, with a clear attribution mechanism …
-
-o	… whereas where (roughly) should we put the legal domain borderlines (think “yet another **capped rabbit hole**” ninja technique à la Beth) for **these stages of A/A & D/D that warrant ambiguity and/or impossibility of a straightforward attribution mechanism and therefore a potential problem of accountability gap and/or legal vacuum** (unless that problem doesn’t really exist, then okay) …
-
-o	… whereas where (roughly) should we put the legal domains borderlines where we think the model of AAS being mere electronic agents as being dealt with by the ESIGN/UETA frameworks, and being managed by AALE as such, **doesn’t apply anymore.**
-
-And instead, there is ground for **bestowing directly the AAS with the capacities and status of Legal Agent**, or at least provide arguments in favor of the Legal System(s) evolving in that direction. In which case, what would be the (rough) features to **outfit the AALE with functions to enable the AALE to handle to Legal-Agent-Status capable AAS.** Because this sounds clearly like a guaranteed rabbit hole, it should be capped. However the recent case of the **Inventor-AI kind of AAS** has demonstrated that we might be only several years to a couple of decades away from dealing with such issues, rather than half a century. _Our work, while remaining within proper boundaries, might want to at least underline this awareness and foresight._
+-	for example we could introduce **a transacting-drone (fetch-pay-deliver)** or introduce **a new AAS in the scenario, that does problematic things-** either deliberately programmed to steal by its owner, or it gets hacked, and book and/or money are gone, then **who is responsible and liable for what:** remember the book scenarios matrix hypothesis **“AALE/DAO gone rogue”**, but here now the right question becomes **how does a “clean” AALE deals with an ecosystem internal AAS gone rogue?**
 
 
-#### Next steps
+It might also be useful to consider an AAS that does problematic things, like a transacting-drone (fetch-pay-deliver) gone rogue, in order to kind of **clarify three questions:**
+
+-	On a very simple and concrete example, what should **AALE engineering pathways** be (roughly), for AALE to operate _mano a mano_ with these AAS but also deal with them when they go wrong- for whatever reason.
+
+-	What are (roughly) for AAS the **various stages of A/A and D/D that would _impact attribution_**, and how should AALE be engineered to deal with that.
+
+-	Where are (roughly) the legal domain borderlines, within which we may **safely assume that we can execute legal analysis of scenarios for Autonomous Agents and Automated Transactions, under the model of AAS being mere electronic agents as being dealt with by the ESIGN/UETA frameworks, with a clear attribution mechanism …**
+
+-	… whereas there must be a place where we should (roughly) put the legal domain borderlines (think “yet another **capped rabbit hole**” ninja technique à la Beth) for **these stages of A/A & D/D that warrant ambiguity and/or impossibility of a straightforward attribution mechanism and therefore a potential problem of accountability gap and/or legal vacuum** (unless that problem doesn’t really exist, then okay let's drop that angle) …
+
+-	… whereas there must be a place where we should (roughly) put the legal domains borderlines where we think **the model of AAS being mere electronic agents, as being dealt with by the ESIGN/UETA frameworks, and being managed by AALE as such, _doesn’t apply anymore._**
+
+- And instead, there might be ground for **bestowing directly the AAS with the capacities and status of Legal Agent**, or at least provide arguments in favor of the Legal System(s) evolving in that direction. 
+
+- In which latest case, what would be the (rough) features to **outfit the AALE with functions to enable the AALE to handle these Legal-Agent-Status capable AAS.** _Because this sounds clearly like a guaranteed rabbit hole, it should be capped._
+
+- However the recent case of the **Inventor-AI kind of AAS** has demonstrated that we might be only several years to a couple of decades away from dealing with the issue of extreely autonomish systems that possibly qualify as Legal Agents, rather than half a century. _Our work, while remaining within proper boundaries, might want to at least underline this awareness and foresight_ even if we choose to so far deal with it as a "capped guaranteed rabbit hole".
+
+
+#### Next steps of our CWP
 
 Regardless of none-partial-full validation of all of the above, what we (non-Lawyer Chris) are doing right now - besides scrambling to complete the migration of relevant previous content to GitHub – is, based on a current process which we reserve the right to modify:
 
 -	take above **core chunk focus** while not getting too hang up with the guaranteed rabbit holes (capped or uncapped at will).
 
--	then, scanning through the **Restatement (2nd) of Contract Law** (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md), look for these sections, articles and underlying legal concepts, that resonate with issues relevant to above core chunk focus framework, and write some comments- but doing this first in abstracto, not yet getting entangled in any specific scenario. 
+-	then, scanning through the **Restatement (2nd) of Contract Law** (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md), look for these sections, articles and underlying legal concepts, **that logically resonate & articulate with issues relevant to above core chunk focus framework,** and write some comments- but doing this first _in abstracto_, not yet getting entangled in any specific scenario. 
 
--	then, from that, like we did for Agency Law, we hope to derive a check-list of some of the most relevant articles and concepts in usability & applicability to above core chunk focus. 
+-	then, from that, like we did for Agency Law, we hope to **derive a check-list of some of Restatement (2nd) of Contract Law's most relevant articles and concepts in usability & applicability to above core chunk focus.** 
 
--	at that time we should be able to apply that check-list together with the R4 (Roles and Relationships, Rights and Responsibilities) & other relevant functions, to allocate roles to functions and then play some of the scenarios from the perspective of each role, within an AALE/DAO context. 
+-	at that time we should be able to apply that check-list together with the **R4 (Roles and Relationships, Rights and Responsibilities) & other relevant functions**, to allocate roles to functions and then play some of the scenarios from the perspective of each role, within an AALE/DAO context. 
 
--	during that process, it would be then expected that we would be further able to extract from the check-list a couple of pivotal axis, that would help to further narrow focus toward a short-list, a limited set of at least **a few more AALE design requirements & legal engineering success metrics.**
+-	during that process, it would be then expected that we would be further able to extract from the check-list a couple of **pivotal axis**, that would help to further narrow focus toward a short-list, a limited set of at least **a few more AALE design requirements & legal engineering success metrics.**
 
-We’ll see how it goes. But remember: **"You're not stuck in traffic- You _are_ traffic."**
+We’ll see how it goes. 
+
+But remember: **"You're not stuck in traffic- You _are_ traffic."**
+
+#
 
 #### Remarks:
 
