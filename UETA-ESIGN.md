@@ -76,12 +76,12 @@ Key references this time include:
 >“Creating a Legal Framework for Autonomous Agents and Automated Transactions” 
 (https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/),
 
--	recent exchanges Dazza – Bryan – Brenden et al. In Bryan’s words:
+-	Recent exchanges Dazza – Bryan – Brenden et al. In Bryan’s words:
 
 >Both (ESIGN/UETA), even just as possible models, have some language that is helpful to understanding Contract Law for automated entities, specifically with regards to _**intent to form a contract, acceptance, and purported alteration of a contract with an automated entity.**_
 
 
--	a mus-read GiHub post by Brenden dated May 2019:
+-	A must-read GiHub post by Brenden dated May 2019:
 >"AALE Frameworks - Industry Classifications on Autonomous Systems": (https://github.com/mitmedialab/AutomatedLegalEntityChallenge/pull/1/commits/fc6863e0690ea2e0a03adcc2dd000451bbdd9105)
 
 That GitHub post by Brenden starts to cover the issue of discerning various stages of A/A & D/D for AALEs. 
@@ -135,7 +135,9 @@ It might also be useful to consider an AAS that does problematic things, like a 
 
 Regardless of none-partial-full validation of all of the above, what we (non-Lawyer Chris) are doing right now - besides scrambling to complete the migration of relevant previous content to GitHub – is, based on a current process which we reserve the right to modify:
 
--	take above **core chunk focus** while not getting too hang up with the guaranteed rabbit holes (capped or uncapped at will).
+- define a **core chunk to focus the bulk of our design efforts**, whereas, for Autonomous Agents and Automated Transactions, we kind of operate over the **robust foundation of the ESIGN/ UETA frameworks for electronics agents**, and for which a **clear attribution to a responsible legal person is straightforward.**
+
+-	keep above **core chunk focus** while not getting too hang up with the guaranteed rabbit holes (capped or uncapped at will).
 
 -	then, scanning through the **Restatement (2nd) of Contract Law** (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md), look for these sections, articles and underlying legal concepts, **that logically resonate & articulate with issues relevant to above core chunk focus framework,** and write some comments- but doing this first _in abstracto_, not yet getting entangled in any specific scenario. 
 
