@@ -1,4 +1,4 @@
-PREPARATORY WORK FOR NEXT SESSION - BITS OF METHOD – CONTRACT LAW – AAS - AALE
+PREPARATORY WORK FOR NEXT SESSION - BITS OF METHOD CWP – CONTRACT LAW – AAS - AALE
 
 
 #### Some things which have emerged on how we work individually & collectively:
@@ -17,7 +17,7 @@ f.	regularly clarify what (evolving) objectives are, but also remind what they�
 
 g.	get language clearance, stay away from the State of Confusion (AAS vs AALE etc).
 
-h.	remain agile & nimble like this perfect AALE-ninjutsu 3rd Session Beth Live Berlin.
+h.	remain ninjutsu-like agile & nimble like this perfect AALE 3rd Session Live from Berlin.
 
 #
 
@@ -27,7 +27,7 @@ AALE: Automated and Autonomous Legal Entity
 
 AAS: Automated and Autonomous Systems
 
-A/A: (various) Automated and Autonous (stages)- or "autonomish" (see below referenced Joy Ito's video)
+A/A: (various) Automated and Autonomous (stages)- or "autonomish" (see below referenced Joy Ito's video)
 
 D/D: (various) Distributed and Decentralized (stages)
 
@@ -45,19 +45,19 @@ NPI: a human person (from NP Natural Person UK LAw and I Individual US Law)
 
 2.	their relevance to **AAS Automated and Autonomous Systems that are transacting**.
 
-3.	relevance at least as model to tackle Contract Law AALE implications, so as to …
+3.	and their relevance at least as model to tackle Contract Law AALE implications, so as to ...
 
-4.	surface a few more **AALE design requirements & legal engineering success metrics.**
+4.	... surface a few more **AALE design requirements & legal engineering success metrics.**
 
-5.	key-takeaway in AAS context: **need clear _attribution_ to a responsible legal person.**
+5.	key-takeaway in AAS context: **need clear _attribution_ to a responsible legal person...**
 
-6.	avoid **accountability gap for the potential harm & damage** such AAS could cause.
+6.	... to avoid **accountability gap for the potential harm & damage** such AAS could cause.
 
 7.	consider appropriate, usable and effective measures for **_attribution_ in AAS context.**
 
 8.	such attribution measures to focus on **acts and/or consequences of acts of AAS ...**
 
-9.	… by **linking ownership, control & accountability _back to responsible parties._**
+9. ... by **linking ownership, control & accountability _back to responsible parties._**
 
 10.	clearly visible **license plates** required for vehicles suggest **analogous AAS pathways.**
 
@@ -65,7 +65,7 @@ NPI: a human person (from NP Natural Person UK LAw and I Individual US Law)
 
 12.	discern for AAS & AALE **various stages of A/A and D/D that impact _attribution._**
 
-These are only a few suggested tracks to support our further individual & collective efforts.
+These are only a few suggested tracks to support our further individual & collective efforts & CWP.
 
 #
 
@@ -128,7 +128,7 @@ It might also be useful to consider an AAS that does problematic things, like a 
 
 - In which latest case, what would be the (rough) features to **outfit the AALE with functions to enable the AALE to handle these Legal-Agent-Status capable AAS.** _Because this sounds clearly like a guaranteed rabbit hole, it should be capped._
 
-- However the recent case of the **Inventor-AI kind of AAS** has demonstrated that we might be only several years to a couple of decades away from dealing with the issue of extreely autonomish systems that possibly qualify as Legal Agents, rather than half a century. _Our work, while remaining within proper boundaries, might want to at least underline this awareness and foresight_ even if we choose to so far deal with it as a "capped guaranteed rabbit hole".
+- However the recent case of the **Inventor-AI kind of AAS** has demonstrated that we might be only several years to a couple of decades away from dealing with the issue of _**substantially autonomISH systems that qualify as Legal Agents**_, rather than half-a-century as it is currently assumed by some regulatory senior decision makers occasionally quoted in the Financial Times. _Our work, while remaining within proper boundaries, might want to at least underline this awareness and foresight_ even if we choose to so far deal with it as a "capped guaranteed rabbit hole".
 
 
 #### Next steps of our CWP
